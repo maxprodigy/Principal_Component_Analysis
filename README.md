@@ -27,11 +27,11 @@ This project performs the following tasks:
 # Usage/Installation
 - Clone the repository:
 
-git clone https://github.com/yourusername/pca-project.git
+git clone https://github.com/maxprodigy/Principal_Component_Analysis
 
 - Navigate to the project directory:
 
-cd pca-project
+cd Principal_Component_Analysis
 
 - Install the required dependencies:
 
